@@ -1,0 +1,69 @@
+/*Comentarios*/
+
+/*Selector de tipo etiqueta HTML*/
+body{
+    background-color:rgb(231, 239, 247)
+}
+
+#logo{
+    width:18%;
+    display: block;
+    margin: auto;
+}
+#menu{
+    background-color:#E4F9FF;
+    margin:0 auto;
+    width:100%;
+    padding:10px;
+    box-sizing: border-box;
+    text-align:center;
+    font-family:Bernand MT Condensed;
+    font-size:18px;
+}
+#imagen1{
+    width: 50%; /*Unidades estaticas*/
+}
+#imagen2{
+    width: 80%; /*Unidades estaticas*/
+}
+
+h1{
+    color:black;
+    font-weight: bold; /*Negritas*/
+    text-transform: uppercase; /*Mayusculas*/
+    text-align: center;
+}
+/*Selectores de tipo clase, reutilizacion*/
+
+.tarjeta{
+    background-color:rgb(240, 249, 255)
+}
+
+/*Selector de tipo ID, identificador unico*/
+#album1{
+    color: rgb(13, 132, 250);
+}
+#album2{
+    color: rgb(203, 198, 42);
+}
+#album3{
+    color:black;
+}
+#album4{
+    color:rgb(169, 2, 2);
+}
+#album5{
+    color:red
+}
+#album6{
+    color: greenyellow;
+}
+#album7{
+    color: rgb(167, 164, 164);
+}
+#album8{
+    color: rgb(121, 66, 66);
+}
+#album9{
+    color: rgb(255, 213, 0);
+}
